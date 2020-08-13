@@ -1,2 +1,4 @@
 # hello-folks
-Welcome to skillfreek your skill mastering channel
+We are technical service personnels
+And facility management contractors
+We also run skill mastering channels
